@@ -21,6 +21,8 @@ AF_DCMotor M2(2);
 AF_DCMotor M3(3);
 AF_DCMotor M4(4);
 
+int shithapped;
+
 void Bluetoothcontrol();
 void Obstacle();
 void voicecontrol();
